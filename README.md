@@ -3,6 +3,8 @@ This is a dashboard project developed using the Power BI sample dataset. The das
 
 <img align="center" alt="Coding" width="400" src="https://aarp-content.brightspotcdn.com/dims4/default/7e8bc0b/2147483647/strip/true/crop/1280x704+0+0/resize/300x165!/quality/90/?url=http%3A%2F%2Faarp-brightspot.s3.amazonaws.com%2Fcontent%2F9c%2F9f%2F92b06d8444cca9de932674d5862c%2Ffinancialliteracy-rosewong-1280x704.gif">
 
+# Link to Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTM5NzU0MGItMWExNi00YzI3LWEyNzgtOWIzMDFlOTEwNDFkIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
+
 # Dataset
 The dataset used contains the following columns:
 - Segment
