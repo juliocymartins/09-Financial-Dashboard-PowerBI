@@ -6,7 +6,7 @@ This is a dashboard project developed using the Power BI sample dataset. The das
 ### Link to Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTM5NzU0MGItMWExNi00YzI3LWEyNzgtOWIzMDFlOTEwNDFkIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
 
 # Dataset
-The dataset used contains the following columns:
+The dataset used is a sample provided by Power BI and contains detailed information about sales. It contains the following columns:
 - Segment
 - Country
 - Product
@@ -23,7 +23,7 @@ The dataset used contains the following columns:
 - Month Number
 - Month Name
 - Year
-- 
+
 # Dashboard Features
 ### Filters
 - Country Dropdown Menu: Allows selecting a specific country for analysis or viewing data from all countries.
